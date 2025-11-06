@@ -36,3 +36,6 @@ Tabela 9: Wyniki pomiarów czasu między impulsami τ oraz amplitudy A [j.a.] (p
 
 
 Tabela 10: Wyniki pomiarów czasu między impulsami τ oraz amplitudy A [j.a.] (przemnożonej przez "-1") dla czasu relaksacji T_2 dla wody.(pierwsze dwie kolumny odpowiednio)
+
+
+W folderze 'wykresy' są zamieszczone wszystkie wykresy z ćwiczenia.
