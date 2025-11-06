@@ -1,1 +1,16 @@
+Wykorzystane wykresy w sprawozdaniu:
+kalibr.jpg - Wykres kalibracji impulsów.
+T1_0.5.jpg - Wyniki pomiarów czasu relaksacji T_2 dla roztworu o stężeniu 0.5%.
+T2_0.5.jpg - Wyniki pomiarów czasu relaksacji T_2 dla roztworu o stężeniu 0.5%.
+T1_woda.jpg - Wyniki pomiarów czasu relaksacji T_1 dla wody.
+T2_woda.jpg - Wyniki pomiarów czasu relaksacji T_2 dla wody.
+T_1_korel.jpg - Wykres korelacji roztworu CuSO_4 o stężeniu C a czasu relaksacji T_1.
+T_2_korel.jpg - Wykres korelacji roztworu CuSO_4 o stężeniu C a czasu relaksacji T_2.
+T_1_korel_new.jpg - Wykres korelacji roztworu Cu o stężeniu C a czasu relaksacji T_1.
+T_2_korel_new.jpg - Wykres korelacji roztworu Cu o stężeniu C a czasu relaksacji T_2.
+____________________________________________________________________
+Reszta wykresów mają nazwy z analogicznem podejściem: TN_k.jpg - Wyniki pomiarów czasu relaksacji T_N dla roztworu o stężeniu k%.
+gdzie:
+N = 1 lub N = 2;
+k - procent stężenia roztworu.
 
